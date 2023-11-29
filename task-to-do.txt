@@ -1,0 +1,2 @@
+1) install django 
+2) create new project myproject1 in project directory 
